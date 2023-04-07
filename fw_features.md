@@ -15,7 +15,7 @@ You can list the features using `miiocli device raw_command get_fw_features` wit
 | Model                 | Name                  | Firmware      |101|102|103|104|105|106|107|108|109|110|111|112|113|114|115|116|117|118|119|120|121|122|123|124|125|126|127|128|129|130|Remark    
 | --------------------- | --------------------- | ------------- | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | ------- |
 | rockrobo.vacuum.v1    | Mi Robot Vacuum       | 3.5.8_004018  | X | X |   | X | X |   |   |   |   |   | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |         |
-| roborock.vacuum.a01   | Roborock E Series     |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
+| roborock.vacuum.a01   | Roborock E Series     | 2.0.8_0912    |   | X |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
 | roborock.vacuum.a08   | Roborock S6 Pure      |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
 | roborock.vacuum.a09   | Roborock T7 Pro       |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |         |
 | roborock.vacuum.a10   | Roborock S6 MaxV      | 3.5.8_5850    |   |   |   |   |   |   |   |   |   |   | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X |   |   |   |   |   |         |
